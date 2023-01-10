@@ -7,3 +7,14 @@ def is_armstrong_number(number):
     number: int
         the number being checked   
     '''
+
+    armstrong_check = 0
+    digits = [int(x) for x in str(number)]
+
+    for x in digits:
+      armstrong_check += x ** len(digits)
+
+    if armstrong_check == number:
+        return True
+    else:
+        return False

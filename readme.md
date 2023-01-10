@@ -11,10 +11,11 @@ This is a repo to store and track my solutions to the [Exercism](https://exercis
 ### 🛠️ Numbers
 - [Currency Exchange](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/currency-exchange) ✔️
 - [Grains](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/grains) ✔️
-- [Armstrong Numbers](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/armstrong-numbers) 🛠️
-- Difference of Squares  
+- [Armstrong Numbers](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/armstrong-numbers) ✔️
+- [Difference of Squares](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/difference-of-squares) ✔️ 
 - [Collatz Conjecture](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/armstrong-numbers) ✔️
-- Diffie-Hellman  
+- [Diffie-Hellman](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/diffie-hellman) ✔️
+- Palindrome Products (*currently unavailable*)  
 
 
 ### 🛠️ Bools
