@@ -25,8 +25,9 @@ This is a repo to store and track my solutions to the [Exercism](https://exercis
 
 ### 🛠️ Conditionals
 - [Meltdown Mitigation](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/armstrong-numbers) ✔️
-- Bob  
-- Raindrops 
+- [Bob](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/bob) ✔️ 
+- [Raindrops](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/raindrops) ✔️  
+- [Pig Latin](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/pig-latin) 🛠️
 
 ### ⌚ Strings
 
