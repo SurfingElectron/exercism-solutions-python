@@ -7,7 +7,7 @@ FOURS = lambda dice: numbers_score(4, dice)
 FIVES = lambda dice: numbers_score(5, dice)
 SIXES = lambda dice: numbers_score(6, dice)
 FULL_HOUSE = lambda dice: sum(dice) if len(set(dice)) == 2 and any(dice.count(x) == 3 for x in dice) else 0
-FOUR_OF_A_KIND = 0
+FOUR_OF_A_KIND = lambda dice: sum(x * 4 for x in set(dice) if dice.count(x) > 3) if any(dice.count(x) > 3 for x in dice) else 0
 LITTLE_STRAIGHT = lambda dice: 30 if sorted(dice) == [1,2,3,4,5] else 0
 BIG_STRAIGHT = lambda dice: 30 if sorted(dice) == [2,3,4,5,6] else 0
 CHOICE = lambda dice: sum(dice)

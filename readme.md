@@ -21,7 +21,7 @@ This is a repo to store and track my solutions to the [Exercism](https://exercis
 - [Ghost Gobble Arcade Game](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/ghost-gobble-arcade-game) ✔️
 - [Leap](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/leap) ✔️  
 - [Triangle](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/triangle) ✔️  
-- [Yacht](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/yacht) 🛠️
+- [Yacht](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/yacht) ✔️
 
 ### 🛠️ Conditionals
 - [Meltdown Mitigation](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/armstrong-numbers) ✔️
