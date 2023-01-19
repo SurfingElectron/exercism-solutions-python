@@ -15,15 +15,12 @@ def translate(text):
         a two letter word it makes a vowel sound. 
     '''
 
-    def is_vowel(text):
-        return text.startswith(('a', 'e', 'i', 'o', 'u', 'xr', 'yt'))
+    def translate_word(word):
+        if word.startswith(('a', 'e', 'i', 'o', 'u', 'xr', 'yt')):
+            return word + 'ay'
+        for consonant_sound in ['sch', 'squ', 'thr', 'ch', 'qu', 'rh', 'th', 'y']:
+            if word.startswith(consonant_sound):
+                return word[len(consonant_sound):] + consonant_sound + 'ay'
+        return word[1:] + word[:1] + 'ay'
 
-    def is_consonant_sound(text):
-        return text.startswith(('y', 'ch', 'qu',  'th',  'rh', 'squ', 'sch', 'thr'))
-
-    if is_vowel(text):
-        return text + 'ay'
-    if is_consonant_sound(text):
-        for consonant in ['y', 'ch', 'qu',  'th',  'rh', 'squ', 'sch', 'thr']:
-            return 'consonantsound' #text[len(consonant):] + consonant + 'ay'
-    else: return text[1:] + text[:1] + 'ay'
+    return ' '.join( [ translate_word(text) for text in text.split() ])

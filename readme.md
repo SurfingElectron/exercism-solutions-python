@@ -27,9 +27,15 @@ This is a repo to store and track my solutions to the [Exercism](https://exercis
 - [Meltdown Mitigation](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/armstrong-numbers) ✔️
 - [Bob](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/bob) ✔️ 
 - [Raindrops](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/raindrops) ✔️  
-- [Pig Latin](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/pig-latin) 🛠️
+- [Pig Latin](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/pig-latin) ✔️
+- Matching Brackets (*currently unavailable*)
 
 ### ⌚ Strings
+- [Little Sister's Vocabulary](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/little-sisters-vocab) 🛠️
+- Pangram
+- Isogram
+- ISBN Verifier
+- Rotational Cipher
 
 ### ⌚ Comparisons
 
