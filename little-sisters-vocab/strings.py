@@ -30,10 +30,7 @@ def make_word_groups(vocab_words):
     # output in a string with ' :: ' between each word
 
     prefix = vocab_words.pop(0)
-    prefixed_words = []
-    for x in vocab_words:
-        prefixed_words.append(prefix + vocab_words[x])
-    return ' :: '.join(word for word in prefixed_words)
+    return prefix + ' :: ' + ' :: '.join(prefix + word for word in vocab_words)
 
 
 def remove_suffix_ness(word):
@@ -45,7 +42,9 @@ def remove_suffix_ness(word):
     For example: "heaviness" becomes "heavy", but "sadness" becomes "sad".
     """
 
-    pass
+    if word[-5] == 'i':
+        return word[:-5] + 'y'
+    return word[:-4]
 
 
 def adjective_to_verb(sentence, index):
@@ -58,4 +57,5 @@ def adjective_to_verb(sentence, index):
     For example, ("It got dark as the sun set", 2) becomes "darken".
     """
 
-    pass
+    word_list = sentence.strip('.').split()
+    return word_list[index] + 'en'

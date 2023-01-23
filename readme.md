@@ -17,7 +17,7 @@ This is a repo to store and track my solutions to the [Exercism](https://exercis
 - [Diffie-Hellman](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/diffie-hellman) ✔️
 - Palindrome Products (*currently unavailable*)  
 
-### 🛠️ Bools
+### ✔️ Bools
 - [Ghost Gobble Arcade Game](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/ghost-gobble-arcade-game) ✔️
 - [Leap](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/leap) ✔️  
 - [Triangle](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/triangle) ✔️  
@@ -30,14 +30,19 @@ This is a repo to store and track my solutions to the [Exercism](https://exercis
 - [Pig Latin](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/pig-latin) ✔️
 - Matching Brackets (*currently unavailable*)
 
-### ⌚ Strings
-- [Little Sister's Vocabulary](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/little-sisters-vocab) 🛠️
-- Pangram
-- Isogram
-- ISBN Verifier
-- Rotational Cipher
+### ✔️ Strings
+- [Little Sister's Vocabulary](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/little-sisters-vocab) ✔️
+- [Pangram](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/panagram) ✔️
+- [Isogram](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/isogram) ✔️
+- [ISBN Verifier](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/isbn-verifier) ✔️
+- [Rotational Cipher](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/rotational-cipher) ✔️
 
-### ⌚ Comparisons
+### 🛠️ Comparisons
+- Black Jack
+- Darts
+- Perfect Numbers
+- Sublist
+- All Your Base
 
 ### ⌚ String Methods
 
