@@ -1,7 +1,7 @@
 # [Exercism](https://exercism.org/) Solutions - Python
 👋 [Find me on Exercism!](https://exercism.org/profiles/SurfingElectron)
 
-This is a repo to store and track my solutions to the [Exercism](https://exercism.org/) Python track. 
+This is a repo to track my progress and store my solutions to the [Exercism](https://exercism.org/) Python track. 
 
 ## Exercises log
 ### ✔️ Basics
