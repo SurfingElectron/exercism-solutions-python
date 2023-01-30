@@ -38,11 +38,11 @@ This is a repo to track my progress and store my solutions to the [Exercism](htt
 - [Rotational Cipher](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/rotational-cipher) ✔️
 
 ### 🛠️ Comparisons
-- Black Jack
-- Darts
-- Perfect Numbers
-- Sublist
-- All Your Base
+- [Black Jack](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/black-jack) ✔️
+- [Darts](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/darts) ✔️
+- [Perfect Numbers](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/perfect-numbers) ✔️
+- [Sublist](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/sublist) 🛠️
+- [All Your Base](https://github.com/SurfingElectron/exercism-solutions-python/tree/main/all-your-base) ⌚
 
 ### ⌚ String Methods
 
